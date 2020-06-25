@@ -43,7 +43,7 @@ https://elody.com/scenario/plan/16/
 
 ```bash
 # clone the repo
-$ git clone https://github.com/sherlock-project/sherlock.git
+$ git clone https://github.com/Harish-cell/sherlock.git
 
 # change the working directory to sherlock
 $ cd sherlock
